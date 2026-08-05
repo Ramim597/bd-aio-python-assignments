@@ -31,15 +31,15 @@ After every assignment:
 
 ```
 Assignment-01/
-│── q1.py
-│── q2.py
-│── q3.py
+│── Ques_01.py
+│── Ques_02.py
+│── Ques_03.py
 │── README.md
 
 Assignment-02/
-│── q1.py
-│── q2.py
-│── q3.py
+│── Ques_01.py
+│── Ques_02.py
+│── Ques_03.py
 │── README.md
 ```
 
