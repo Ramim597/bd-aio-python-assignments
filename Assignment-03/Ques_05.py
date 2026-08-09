@@ -11,12 +11,6 @@
 # 4. D - Display all students and marks
 
 
-# students = {"Ramim": 85, "Tanu": 72, "Suborna": 91, "Nadia": 78, "Hamim": 88}
-# students.update({"Saim"})
-# print(students)
+students = {"Ramim": 85, "Tanu": 72, "Suborna": 91, "Nadia": 78, "Hamim": 88}
 
-
-import keyboard
-
-if keyboard.is_pressed("a"):
-    print("A pressed!")
+print(students["Nadia"])
