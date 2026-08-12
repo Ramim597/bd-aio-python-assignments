@@ -1,6 +1,8 @@
 # Q1 :  Create a BankAccount class with attributes account_number, owner_name, and balance.
 # Add methods to deposit, withdraw, and check balance.
 
+# Concepts : Classes & Objects
+
 
 class BankAccount:
     def __init__(self, account_number, owner_name, balance):  # instance atribute
